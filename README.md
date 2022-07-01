@@ -1,4 +1,4 @@
-- Hi, Im willyBot!
+- Hi, Im ChomBot!
 
 - I make numerous things including minecraft mods!
 
