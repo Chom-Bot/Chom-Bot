@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Charliefoxdesigncontact@gmail.com**
 
-- 📄 Know about my experiences [Coming soon!](Coming soon!)
+- 📄 Know about my experiences (Coming soon!)
 
 - ⚡ Fun fact **I love Blender!**
 
