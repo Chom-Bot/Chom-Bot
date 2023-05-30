@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm ChomBot</h1>
 <h3 align="center">I Code, Do VFX, Modeling etc....</h3>
 
-<p align="left"> <a href="https://twitter.com/chombot26" target="blank"><img src="https://img.shields.io/twitter/follow/chombot26?logo=twitter&style=for-the-badge" alt="chombot26" /></a> </p>
 
 - 🔭 I’m currently working on **Monkey: The Game**
 
