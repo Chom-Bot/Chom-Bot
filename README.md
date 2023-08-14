@@ -2,7 +2,7 @@
 <h3 align="center">I Code, Do VFX, Modeling etc....</h3>
 
 
-- 🔭 I’m currently working on **Monkey: The Game**
+- 🔭 I’m currently working on **My brand new website!**
 
 - 🌱 I’m currently learning **React, ThreeJS and Javascript**
 
