@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **Kinect For Blender**
 
-- 👨‍💻 All of my projects are available at [charliefoxdesign.myportfolio.com](charliefoxdesign.myportfolio.com)
+- 👨‍💻 All of my projects are available at [Charlie Design](charlie-design.vercel.app)
 
 - 💬 Ask me about **Blender and Modeling**
 
