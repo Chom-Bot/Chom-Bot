@@ -12,7 +12,6 @@
 
 - 💬 Ask me about **Blender and Modeling**
 
-- 📫 How to reach me **Charliefoxdesigncontact@gmail.com**
 
 - 📄 Know about my experiences (Coming soon!)
 
