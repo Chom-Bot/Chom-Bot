@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ChomBot</h1>
 <h3 align="center">I Code, Do VFX, Modeling etc....</h3>
 
-
+i also small bad
 - 🔭 I’m currently working on **My brand new website!**
 
 - 🌱 I’m currently learning **React, ThreeJS and Javascript**
