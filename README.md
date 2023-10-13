@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ChomBot</h1>
-<h3 align="center">I Code, Do VFX, Modeling. Jk i know nothing</h3>
+<h3 align="center">I Code, Do VFX, Modeling.</h3>
 
 - 🔭 I’m currently working on **My brand new website!**
 
