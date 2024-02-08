@@ -1,26 +1,21 @@
-<h1 align="center">Hi 👋, I'm ChomBot</h1>
+<h1 align="center">Hi 👋, I'm Charlie</h1>
 <h3 align="center">I Code, Do VFX, Modeling.</h3>
 
 - 🔭 I’m currently working on **My brand new website!**
 
-- 🌱 I’m currently learning **React, ThreeJS and Javascript**
+- 🌱 I’m currently learning **Houdini**
 
 - 🤝 I’m looking for help with **Kinect For Blender**
 
-- 👨‍💻 All of my projects are available at [Charlie Design](https://charliedesign.vercel.app)
+- 👨‍💻 All of my projects are available at [Charlie Design](https://charliedesign.live)
 
 - 💬 Ask me about **Blender and Modeling**
 
 
-- 📄 Know about my experiences (Coming soon!)
-
-- ⚡ Fun fact **I love Blender!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chombot26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chombot26" height="30" width="40" /></a>
-<a href="https://instagram.com/instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chombot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chombot" height="30" width="40" /></a>
+<a href="https://twitter.com/VFXcharlie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chombot26" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Charlie-Design" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chombot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
