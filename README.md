@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charlie</h1>
-<h3 align="center">I Code, Do VFX, Modeling.</h3>
+<h3 align="center">I do pretty much everything</h3>
 
-- 🔭 I’m currently working on **My brand new website!**
+- 🔭 I’m currently working on **My Homelab**
 
 - 🌱 I’m currently learning **Houdini**
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Charlie Design](https://charliedesign.live)
 
-- 💬 Ask me about **Blender and Modeling**
+- 💬 Ask me about **Blender, Modeling and motion graphics**
 
 
 <h3 align="left">Connect with me:</h3>
